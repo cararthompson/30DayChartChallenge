@@ -41,7 +41,7 @@ theme_dark_moon <- function() {
           plot.title = element_text(hjust = 0.5, size = 25, colour = title_col, family = "Arvo"),
           axis.text = element_blank(),
           legend.position = "none",
-          plot.caption = element_text(color = title_col, size = 8, family = "Arvo"),
+          plot.caption = element_text(color = title_col, size = 10, family = "Arvo"),
           axis.title = element_blank(),
           strip.text = element_text(colour = text_col, size = 8),
           axis.ticks = element_blank())
@@ -86,7 +86,7 @@ by_area <- ggplot(ia_df,
             fill = dark_col, colour = dark_col, alpha = 0.3, right = F) +
   facet_wrap(.~ Area, labeller = labeller(Area = label_wrap_gen(width = 12)), 
              ncol = 17) +
-  labs(caption = "\n\n#30DayChartChall | Graphic: @cararthompson | Source: UNdata - International Telecommunications Union") +
+  labs(caption = "\n\n#30DayChartChallenge | Graphic: @cararthompson | Source: UNdata - International Telecommunications Union\n") +
   theme_dark_moon()
 
 
@@ -96,7 +96,6 @@ p <- plot_grid(overall,
                by_area,
                ncol = 1,
                rel_heights = c(0.2, 0.8))
-
 
 
 ## Export plot ----
