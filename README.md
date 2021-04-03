@@ -27,8 +27,10 @@ and join in - the more the merrier!
 
 <a href='scripts/1.1_part-to-whole.R' target='_blank'><img src="plots/1.1_part-to-whole.png" align="center"/></a>
 
-<!-- ### Pictogram -->
-<!-- <!-- Gender in schools -->
+### Pictogram
+
+<a href='scripts/1.2_pictogram.R' target='_blank'><img src="plots/1.2_pictogram.png" align="center"/></a>
+
 <!-- ### Historical -->
 <!-- <!-- creed linguistics comparisons -->
 <!-- ### Magical -->
