@@ -35,8 +35,10 @@ and join in - the more the merrier!
 
 <a href='scripts/1.3_historical.R' target='_blank'><img src="plots/1.3_historical.png" align="center"/></a>
 
-<!-- ### Magical -->
-<!-- <!-- lotr population comparisons -->
+### Magical
+
+<a href='scripts/1.4_magical.R' target='_blank'><img src="plots/1.4_magical.png" align="center"/></a>
+
 <!-- ### Slope -->
 <!-- <!-- Internet access over time -->
 <!-- ### Experimental -->
