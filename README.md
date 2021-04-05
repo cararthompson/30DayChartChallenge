@@ -39,8 +39,10 @@ and join in - the more the merrier!
 
 <a href='scripts/1.4_magical.R' target='_blank'><img src="plots/1.4_magical.png" align="center"/></a>
 
-<!-- ### Slope -->
-<!-- <!-- Internet access over time -->
+### Slope
+
+<a href='scripts/1.5_slope.R' target='_blank'><img src="plots/1.5_slope.png" align="center"/></a>
+
 <!-- ### Experimental -->
 <!-- <!-- PhD Data? -->
 <!-- ## Distributions -->
