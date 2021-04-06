@@ -43,8 +43,10 @@ and join in - the more the merrier!
 
 <a href='scripts/1.5_slope.R' target='_blank'><img src="plots/1.5_slope.png" align="center"/></a>
 
-<!-- ### Experimental -->
-<!-- <!-- PhD Data? -->
+### Experimental
+
+<a href='scripts/1.6_experimental.R' target='_blank'><img src="plots/1.6_experimental.gif" align="center"/></a>
+
 <!-- ## Distributions -->
 <!-- ### Physical -->
 <!-- <!-- Population density? -->
