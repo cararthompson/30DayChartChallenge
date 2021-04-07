@@ -47,9 +47,12 @@ and join in - the more the merrier!
 
 <a href='scripts/1.6_experimental.R' target='_blank'><img src="plots/1.6_experimental.gif" align="center"/></a>
 
-<!-- ## Distributions -->
-<!-- ### Physical -->
-<!-- <!-- Population density? -->
+## Distributions
+
+### Physical
+
+<a href='scripts/2.1_physical.R' target='_blank'><img src="plots/2.1_physical.png" align="center"/></a>
+
 <!-- ### Animals -->
 <!-- <!-- Palmer penguins, beak lengths? -->
 <!-- ### Statistics -->
