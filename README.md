@@ -53,8 +53,10 @@ and join in - the more the merrier!
 
 <a href='scripts/2.1_physical.R' target='_blank'><img src="plots/2.1_physical.png" align="center"/></a>
 
-<!-- ### Animals -->
-<!-- <!-- Palmer penguins, beak lengths? -->
+### Animals
+
+<a href='scripts/2.2_animals.R' target='_blank'><img src="plots/2.2_animals.png" align="center"/></a>
+
 <!-- ### Statistics -->
 <!-- <!-- dino data plots gif -->
 <!-- ### Abstract -->
