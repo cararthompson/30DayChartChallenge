@@ -7,6 +7,10 @@ see, [get in touch](https://twitter.com/cararthompson)!
 
 ## What is the April 2021 \#30DayChartChallenge?
 
+<p align="center">
+<img src="plots/chart-challenge.jpg"/></a>
+</p>
+
 This challenge is organised by [Dominic
 Royé](https://twitter.com/dr_xeo) and [Cédric
 Scherer](https://twitter.com/CedScherer). Participants source and tidy
@@ -25,42 +29,59 @@ and join in - the more the merrier!
 
 ### Part-to-whole
 
-<a href='scripts/1.1_part-to-whole.R' target='_blank'><img src="plots/1.1_part-to-whole.png" align="center"/></a>
+<p align="center">
+<a href='scripts/1.1_part-to-whole.R' target='_blank'><img src="plots/1.1_part-to-whole.png"></a>
+</p>
 
 ### Pictogram
 
-<a href='scripts/1.2_pictogram.R' target='_blank'><img src="plots/1.2_pictogram.png" align="center"/></a>
+<p align="center">
+<a href='scripts/1.2_pictogram.R' target='_blank'><img src="plots/1.2_pictogram.png"></a>
+</p>
 
 ### Historical
 
-<a href='scripts/1.3_historical.R' target='_blank'><img src="plots/1.3_historical.png" align="center"/></a>
+<p align="center">
+<a href='scripts/1.3_historical.R' target='_blank'><img src="plots/1.3_historical.png"></a>
+</p>
 
 ### Magical
 
-<a href='scripts/1.4_magical.R' target='_blank'><img src="plots/1.4_magical.png" align="center"/></a>
+<p align="center">
+<a href='scripts/1.4_magical.R' target='_blank'><img src="plots/1.4_magical.png"></a>
+</p>
 
 ### Slope
 
-<a href='scripts/1.5_slope.R' target='_blank'><img src="plots/1.5_slope.png" align="center"/></a>
+<p align="center">
+<a href='scripts/1.5_slope.R' target='_blank'><img src="plots/1.5_slope.png"></a>
+</p>
 
 ### Experimental
 
-<a href='scripts/1.6_experimental.R' target='_blank'><img src="plots/1.6_experimental.gif" align="center"/></a>
+<p align="center">
+<a href='scripts/1.6_experimental.R' target='_blank'><img src="plots/1.6_experimental.gif"></a>
+</p>
 
 ## Distributions
 
 ### Physical
 
-<a href='scripts/2.1_physical.R' target='_blank'><img src="plots/2.1_physical.png" align="center"/></a>
+<p align="center">
+<a href='scripts/2.1_physical.R' target='_blank'><img src="plots/2.1_physical.png"></a>
+</p>
 
 ### Animals
 
-<a href='scripts/2.2_animals.R' target='_blank'><img src="plots/2.2_animals.png" align="center"/></a>
+<p align="center">
+<a href='scripts/2.2_animals.R' target='_blank'><img src="plots/2.2_animals.png"></a>
+</p>
 
 ### Statistics
 
-<a href='scripts/2.3_statistical.R' target='_blank'><img src="plots/2.3_statistical.gif" align="center"/></a>
-
+<p align="center">
+<a href='scripts/2.3_statistical.R' target='_blank'><img src="plots/2.3_statistical.gif"></a>
+</p>
 <!-- ### Abstract -->
 <!-- <!-- Tate piece??? -->
 <!-- ### Circular -->
@@ -77,7 +98,7 @@ and join in - the more the merrier!
 <!-- ### Multivariate -->
 <!-- <!-- gif showing with and without taking into consideration? -->
 <!-- ### Trees -->
-<!-- <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png" align="center"/></a> -->
+<!-- <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png"></a> -->
 <!-- ### Pop culture -->
 <!-- <!-- oscar nominations, overlaps in actors / directors? -->
 <!-- ### Connections -->
