@@ -1,4 +1,4 @@
-# Distribution - Physical
+# Distributions - Statistics
 
 ## Load libraries ----
 library(tidyverse)
@@ -15,17 +15,15 @@ df <- datasaurus_dozen %>%
 
 labels <- datasaurus_dozen %>% 
   group_by(dataset) %>% 
-  summarize(
-    mean_x    = mean(x),
-    mean_y    = mean(y),
+  summarize(mean_x = mean(x),
+    mean_y = mean(y),
     std_dev_x = sd(x),
     std_dev_y = sd(y),
-    corr_x_y  = cor(x, y)
-  )
+    corr_x_y = cor(x, y))
 
 pal <- c("#010000", # black
          "#fff033", # yellow
-         "#e6000f") #red
+         "#e6000f") # red
 
 ## Plot it ----
 p <- ggplot(df, aes(x=x, y=y, colour=data_colour))+
@@ -74,6 +72,6 @@ p <- ggplot(df, aes(x=x, y=y, colour=data_colour))+
         ggside.panel.scale.x = .2,
         ggside.panel.scale.y = .1)
 
-## Export plot plot ----
+## Export plot ----
 anim_save(animate(p),
           filename = file.path("../plots", "2.3_statistical.gif"))
