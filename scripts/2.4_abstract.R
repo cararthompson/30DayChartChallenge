@@ -58,7 +58,7 @@ label <- ggplot() +
                 kandinskypaintings.org's description
                 of Kandinsky's *Untitled (First Abstract Watercolour)*, widely recognised
                 as one of the first abstract paintings. Each letter's position
-                on the X axis represents is mean position within the text; its
+                on the X axis represents its mean position within the text; its
                 position on the Y axis represents its relative frequency. The fonts,
                 letter sizes and colours were randomly generated, the latter being inspired
                 by the orignal painting.
