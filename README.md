@@ -57,8 +57,10 @@ and join in - the more the merrier!
 
 <a href='scripts/2.2_animals.R' target='_blank'><img src="plots/2.2_animals.png" align="center"/></a>
 
-<!-- ### Statistics -->
-<!-- <!-- dino data plots gif -->
+### Statistics
+
+<a href='scripts/2.3_statistical.R' target='_blank'><img src="plots/2.3_statistical.gif" align="center"/></a>
+
 <!-- ### Abstract -->
 <!-- <!-- Tate piece??? -->
 <!-- ### Circular -->
