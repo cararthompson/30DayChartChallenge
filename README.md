@@ -92,7 +92,7 @@ and join in - the more the merrier!
 ### Circular
 
 <p align="center">
-<a href='scripts/2.5_circular.R' target='_blank'><img src="plots/2.5_circular.png"></a>
+<a href='scripts/2.5_circular.R' target='_blank'><img src="plots/2.5_circular.png" width="600"></a>
 </p>
 <!-- ### Strips -->
 <!-- <!-- Average rainfall france vs uk "Pourquoi il pleut toujours dans ton pays?" -->
