@@ -88,9 +88,12 @@ and join in - the more the merrier!
 <p align="center">
 <a href='scripts/2.4_abstract.R' target='_blank'><img src="plots/2.4_abstract.png"></a>
 </p>
-<!-- <!-- Tate piece??? -->
-<!-- ### Circular -->
-<!-- <!-- Average rainfall and temperature through year in Scotland -->
+
+### Circular
+
+<p align="center">
+<a href='scripts/2.5_circular.R' target='_blank'><img src="plots/2.5_circular.png"></a>
+</p>
 <!-- ### Strips -->
 <!-- <!-- Average rainfall france vs uk "Pourquoi il pleut toujours dans ton pays?" -->
 <!-- http://pcool.dyndns.org:8080/statsbook/?page_id=1831 -->
