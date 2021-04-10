@@ -1,13 +1,11 @@
-# Distributions - Statistics
+# Distributions - Circular
 
 ## Load libraries ----
 library(tidyverse)
 library(extrafont)
 library(ggtext)
 
-# pink: #e91a89
-# yellow: #f9f000
-# blue: #008eb9
+## Get data ---- 
 
 rainfall <- read.csv("https://www2.sepa.org.uk/rainfall/api/Month/15201?csv=true",
                      header = T) %>%
@@ -22,7 +20,7 @@ rainfall <- read.csv("https://www2.sepa.org.uk/rainfall/api/Month/15201?csv=true
   mutate(month_col = case_when(month == "Apr" ~ "Apr",
                                month == "Aug" ~ "Aug",
                                TRUE ~ "Other"))
-
+## Plot it ---- 
 ggplot(rainfall) +
   geom_col(aes(x = month, y = mean_rainfall, colour = month_col),
            fill = "#27b2db", size = 1.1, show.legend = F) +
