@@ -2,7 +2,6 @@
 
 ## Load libraries ----
 library(tidyverse)
-library(tidytext)
 library(extrafont)
 library(ggtext)
 library(rvest)
