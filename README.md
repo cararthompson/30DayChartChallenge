@@ -100,15 +100,18 @@ and join in - the more the merrier!
 <p align="center">
 <a href='scripts/2.6_strips.R' target='_blank'><img src="plots/2.6_strips.png"></a>
 </p>
-<!-- http://pcool.dyndns.org:8080/statsbook/?page_id=1831 -->
-<!-- -->
-<!-- ## Relationships -->
-<!-- ### Correlation -->
-<!-- <!-- maternal health and gdp? -->
+
+## Relationships
+
+### Correlation
+
+<p align="center">
+<a href='scripts/3.1_correlation.R' target='_blank'><img src="plots/3.1_correlation.png"></a>
+</p>
 <!-- ### Space -->
-<!-- <!-- housing space?? -->
+<!-- repost astronauts TidyTuesday -->
 <!-- ### Multivariate -->
-<!-- <!-- hiny app / gif showing with and without taking into consideration? -->
+<!-- <!-- Explore maternal health data -->
 <!-- ### Trees -->
 <!-- <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png"></a> -->
 <!-- ### Pop culture -->
