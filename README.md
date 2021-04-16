@@ -27,37 +27,37 @@ and join in - the more the merrier!
 
 ## Comparisons
 
-### Part-to-whole
+### Day 1 - Part-to-whole
 
 <p align="center">
 <a href='scripts/1.1_part-to-whole.R' target='_blank'><img src="plots/1.1_part-to-whole.png"></a>
 </p>
 
-### Pictogram
+### Day 2 - Pictogram
 
 <p align="center">
 <a href='scripts/1.2_pictogram.R' target='_blank'><img src="plots/1.2_pictogram.png"></a>
 </p>
 
-### Historical
+### Day 3 - Historical
 
 <p align="center">
 <a href='scripts/1.3_historical.R' target='_blank'><img src="plots/1.3_historical.png"></a>
 </p>
 
-### Magical
+### Day 4 - Magical
 
 <p align="center">
 <a href='scripts/1.4_magical.R' target='_blank'><img src="plots/1.4_magical.png"></a>
 </p>
 
-### Slope
+### Day 5 - Slope
 
 <p align="center">
 <a href='scripts/1.5_slope.R' target='_blank'><img src="plots/1.5_slope.png"></a>
 </p>
 
-### Experimental
+### Day 6 - Experimental
 
 <p align="center">
 <a href='scripts/1.6_experimental.R' target='_blank'><img src="plots/1.6_experimental.gif"></a>
@@ -65,37 +65,37 @@ and join in - the more the merrier!
 
 ## Distributions
 
-### Physical
+### Day 7 - Physical
 
 <p align="center">
 <a href='scripts/2.1_physical.R' target='_blank'><img src="plots/2.1_physical.png"></a>
 </p>
 
-### Animals
+### Day 8 - Animals
 
 <p align="center">
 <a href='scripts/2.2_animals.R' target='_blank'><img src="plots/2.2_animals.png"></a>
 </p>
 
-### Statistics
+### Day 9 - Statistics
 
 <p align="center">
 <a href='scripts/2.3_statistical.R' target='_blank'><img src="plots/2.3_statistical.gif"></a>
 </p>
 
-### Abstract
+### Day 10 - Abstract
 
 <p align="center">
 <a href='scripts/2.4_abstract.R' target='_blank'><img src="plots/2.4_abstract.png"></a>
 </p>
 
-### Circular
+### Day 11 - Circular
 
 <p align="center">
 <a href='scripts/2.5_circular.R' target='_blank'><img src="plots/2.5_circular.png" width="600"></a>
 </p>
 
-### Strips
+### Day 12 - Strips
 
 <p align="center">
 <a href='scripts/2.6_strips.R' target='_blank'><img src="plots/2.6_strips.png"></a>
@@ -103,32 +103,45 @@ and join in - the more the merrier!
 
 ## Relationships
 
-### Correlation
+### Day 13 - Correlation
 
 <p align="center">
 <a href='scripts/3.1_correlation.R' target='_blank'><img src="plots/3.1_correlation.png"></a>
 </p>
-<!-- ### Space -->
-<!-- repost astronauts TidyTuesday -->
-<!-- ### Multivariate -->
-<!-- <!-- Explore maternal health data -->
-<!-- ### Trees -->
-<!-- <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png"></a> -->
-<!-- ### Pop culture -->
+
+### Day 14 - Space
+
+<p align="center">
+<a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007b_astronauts.R' target='_blank'><img src="plots/3.2_space.png"></a>
+</p>
+
+### Day 15 - Multivariate
+
+<p align="center">
+<a href='scripts/3.3_multivariate.R' target='_blank'><img src="plots/3.3_multivariate.png"></a>
+</p>
+
+### Day 16 - Trees
+
+<p align="center">
+<a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png"></a>
+</p>
+<!-- ### Day 17 - Pop culture -->
 <!-- <!-- oscar nominations, overlaps in actors / directors? -->
-<!-- ### Connections -->
+<!-- ### Day 18 - Connections -->
 <!-- <!-- theograph of attributes -->
 <!-- ## Time Series -->
-<!-- ### Global change -->
-<!-- ### Upwards -->
-<!-- ### Downwards -->
-<!-- ### Animation -->
-<!-- ### Tiles -->
-<!-- ### Monochrome -->
+<!-- ### Day 19 - Global change -->
+<!-- ### Day 20 - Upwards -->
+<!-- ### Day 21 - Downwards -->
+<!-- ### Day 22 - Animation -->
+<!-- How long it takes Frodo vs Zoe vs me with buggy to walk around the block -->
+<!-- ### Day 23 - Tiles -->
+<!-- ### Day 24 - Monochrome -->
 <!-- ## Uncertainties -->
-<!-- ### 1 -->
-<!-- ### 2 -->
-<!-- ### 3 -->
-<!-- ### 4 -->
-<!-- ### 5 -->
-<!-- ### 6 -->
+<!-- ### Day 25 -->
+<!-- ### Day 26 -->
+<!-- ### Day 27 -->
+<!-- ### Day 28 -->
+<!-- ### Day 29 -->
+<!-- ### Day 30 -->
