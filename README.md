@@ -126,10 +126,14 @@ and join in - the more the merrier!
 <p align="center">
 <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202007d_penguins.R' target='_blank'><img src="plots/3.4_trees_penguins.png"></a>
 </p>
-<!-- ### Day 17 - Pop culture -->
-<!-- <!-- oscar nominations, overlaps in actors / directors? -->
+
+### Day 17 - Pop culture
+
+<p align="center">
+<a href='scripts/3.5_pop-culture.R' target='_blank'><img src="plots/3.5_pop-culture.png"></a>
+</p>
 <!-- ### Day 18 - Connections -->
-<!-- <!-- theograph of attributes -->
+<!-- theograph of attributes -->
 <!-- ## Time Series -->
 <!-- ### Day 19 - Global change -->
 <!-- ### Day 20 - Upwards -->
@@ -137,11 +141,13 @@ and join in - the more the merrier!
 <!-- ### Day 22 - Animation -->
 <!-- How long it takes Frodo vs Zoe vs me with buggy to walk around the block -->
 <!-- ### Day 23 - Tiles -->
+<!-- war and peace in Judges -->
 <!-- ### Day 24 - Monochrome -->
 <!-- ## Uncertainties -->
-<!-- ### Day 25 -->
-<!-- ### Day 26 -->
-<!-- ### Day 27 -->
-<!-- ### Day 28 -->
-<!-- ### Day 29 -->
-<!-- ### Day 30 -->
+<!-- ### Day 25 - Demographic -->
+<!-- ### Day 26 - Trends -->
+<!-- ### Day 27 - Educational -->
+<!-- SEM -->
+<!-- ### Day 28 - Future -->
+<!-- ### Day 29 - Deviations -->
+<!-- ### Day 30 - 3D -->
