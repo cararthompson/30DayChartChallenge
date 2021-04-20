@@ -59,7 +59,7 @@ abide <- visNetwork(nodes, links, width="100%", height="900px",
                        style = "font-family:Segoe UI;color:#656f80;font-size:30px;font-face:bold;text-align:center;"),
            submain = list(text = "Finding Psalms 1, 62, 86, 94 and 145 in the Gospels",
                        style = "font-family:Segoe UI;color:#656f80;font-size:24px;text-align:center;"),
-           footer = list(text = "#30DayChartChallenge | Graohic: @carathompson | Source: www.openbible.info",
+           footer = list(text = "#30DayChartChallenge | Graphic: @cararthompson | Source: www.openbible.info",
                          style = "font-family:Segoe UI;color:#656f80;font-size:12px;text-align:center;")) %>%
   visOptions(highlightNearest = list(enabled = T, degree = 1, hover = F),autoResize = T) %>%
   visInteraction(hover = T, selectConnectedEdges = T, dragNodes = T, dragView = T, 
@@ -74,8 +74,7 @@ abide <- visNetwork(nodes, links, width="100%", height="900px",
             this.moveTo({
             scale:0.35})}") %>%
   visEvents(type = "on", deselectNode = "function() {
-            this.moveTo({scale:0.2})}") %>%
-  visNodes(fixed = list("Psalms" = F))
+            this.moveTo({scale:0.2})}") 
 
 ## Export plot ----
 visSave(graph = abide, file = "../plots/3.6_connections.html",
