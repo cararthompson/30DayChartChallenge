@@ -135,6 +135,9 @@ and join in - the more the merrier!
 
 ### Day 18 - Connections
 
+[Interactive
+plot](https://silentlines.co.uk/portfolio-items/abide-psalms.html)
+
 <p align="center">
 <a href='scripts/3.6_connections.R' target='_blank'><img src="plots/3.6_connections.gif" width="600"></a>
 </p>
