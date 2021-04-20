@@ -132,12 +132,28 @@ and join in - the more the merrier!
 <p align="center">
 <a href='scripts/3.5_pop-culture.R' target='_blank'><img src="plots/3.5_pop-culture.png"></a>
 </p>
-<!-- ### Day 18 - Connections -->
-<!-- theograph of attributes -->
-<!-- ## Time Series -->
-<!-- ### Day 19 - Global change -->
-<!-- ### Day 20 - Upwards -->
+
+### Day 18 - Connections
+
+<p align="center">
+<a href='scripts/3.6_connections.R' target='_blank'><img src="plots/3.6_connections.gif" width="600"></a>
+</p>
+
+## Timeseries
+
+### Day 19 - Global change
+
+<p align="center">
+<a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202011_phones.R' target='_blank'><img src="plots/4.1_global-change.png"></a>
+</p>
+
+### Day 20 - Upwards
+
+<p align="center">
+<a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202010_everest.R' target='_blank'><img src="plots/4.2_upwards.png"></a>
+</p>
 <!-- ### Day 21 - Downwards -->
+<!-- Ration of adults to children -->
 <!-- ### Day 22 - Animation -->
 <!-- How long it takes Frodo vs Zoe vs me with buggy to walk around the block -->
 <!-- ### Day 23 - Tiles -->
@@ -145,6 +161,7 @@ and join in - the more the merrier!
 <!-- ### Day 24 - Monochrome -->
 <!-- ## Uncertainties -->
 <!-- ### Day 25 - Demographic -->
+<!-- Babies born on due date -->
 <!-- ### Day 26 - Trends -->
 <!-- ### Day 27 - Educational -->
 <!-- SEM -->
