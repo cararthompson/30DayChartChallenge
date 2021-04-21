@@ -155,8 +155,12 @@ plot](https://silentlines.co.uk/portfolio-items/abide-psalms.html)
 <p align="center">
 <a href='https://github.com/cararthompson/tidytuesdays/blob/master/scripts/202010_everest.R' target='_blank'><img src="plots/4.2_upwards.png"></a>
 </p>
-<!-- ### Day 21 - Downwards -->
-<!-- Ration of adults to children -->
+
+### Day 21 - Downwards
+
+<p align="center">
+<a href='scripts/4.3_downwards.R' target='_blank'><img src="plots/4.3_downwards.png"></a>
+</p>
 <!-- ### Day 22 - Animation -->
 <!-- How long it takes Frodo vs Zoe vs me with buggy to walk around the block -->
 <!-- ### Day 23 - Tiles -->
