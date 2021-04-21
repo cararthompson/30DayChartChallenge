@@ -1,4 +1,4 @@
-# Time series - Downwards
+# Time series - Animation
 
 ## Load libraries ----
 library(tidyverse)
