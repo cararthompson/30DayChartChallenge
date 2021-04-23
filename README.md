@@ -173,7 +173,12 @@ plot](https://silentlines.co.uk/portfolio-items/abide-psalms.html)
 <p align="center">
 <a href='scripts/4.5_tiles.R' target='_blank'><img src="plots/4.5_tiles.png"></a>
 </p>
-<!-- ### Day 24 - Monochrome -->
+
+### Day 24 - Monochrome
+
+<p align="center">
+<a href='scripts/4.6_monochrome.R' target='_blank'><img src="plots/4.6_monochrome.png"></a>
+</p>
 <!-- ## Uncertainties -->
 <!-- ### Day 25 - Demographic -->
 <!-- Babies born on due date -->
