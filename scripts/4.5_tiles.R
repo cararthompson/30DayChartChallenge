@@ -54,8 +54,8 @@ rouge <- "#ac2b31"
 vichy <- "#4d4445"
 
 ggplot(regime_df) +
-   # hacky way of getting circles in legend, as override.aes() doesn't seem to work
-  geom_point(data = NULL, aes(x = regime_df$start_date[2] - 3000, y = 1, 
+#  hacky way of getting circles in legend, as override.aes() doesn't seem to work
+  geom_point(data = NULL, aes(x = regime_df$start_date[2] - 3000, y = 1,
                               colour = type_col), size = 8) +
   scale_colour_manual(values = c(bleu, rouge, blanc, vichy),
                     breaks = c("Monarchie", "République", "Empire", "Autre")) +
@@ -68,16 +68,17 @@ ggplot(regime_df) +
 cher pays de mon enfance,
 qui, depuis la Renaissance,
 des régimes en as vu tant !\n",
-       caption = "\n\n\n#30DayChartChallenge | Graphic: @cararthompson | Source: fr.wikipedia.org\n") +
-#  guides(fill = guide_legend(override.aes = list(shape = 16))) +
-  theme_void() %+replace%
-  theme(aspect.ratio = 6/90,
+x = "", y = "",
+       caption = "\n\n\n#30DayChartChallenge | Graphic: @cararthompson | Source: fr.wikipedia.org") +
+  theme_minimal() %+replace%
+  theme(aspect.ratio = 6/200,
+        panel.grid = element_blank(),
         axis.text.y = element_blank(),
         legend.position = "bottom",
-        plot.title = element_text(hjust = 0.5, size = 20, family = "Homemade Apple", lineheight = 1.5),
+        plot.title = element_text(hjust = 0.5, size = 18, family = "Homemade Apple", lineheight = 1.5),
         text = element_text(family = "Georgia"),
-        plot.caption = element_text(hjust = 0.5, size = 10, family = "Georgia"),
-        legend.box.spacing = unit(1.3, "cm"),
+        plot.caption = element_text(hjust = 0.5, size = 8, family = "Georgia"),
+        legend.box.spacing = unit(0.5, "cm"),
         legend.title=element_blank()) 
     
 ## Export plot ----
