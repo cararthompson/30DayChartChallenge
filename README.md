@@ -167,8 +167,12 @@ plot](https://silentlines.co.uk/portfolio-items/abide-psalms.html)
 <p align="center">
 <a href='scripts/4.4_animation.R' target='_blank'><img src="plots/4.4_animation.gif"></a>
 </p>
-<!-- ### Day 23 - Tiles -->
-<!-- war and peace in Judges -->
+
+### Day 23 - Tiles
+
+<p align="center">
+<a href='scripts/4.5_tiles.R' target='_blank'><img src="plots/4.5_tiles.png"></a>
+</p>
 <!-- ### Day 24 - Monochrome -->
 <!-- ## Uncertainties -->
 <!-- ### Day 25 - Demographic -->
